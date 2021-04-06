@@ -13,7 +13,7 @@ object Dependencies extends AutoPlugin {
       guice,
       ws,
       caffeine,
-      "net.logstash.logback" % "logstash-logback-encoder" % "6.2",
+      "net.logstash.logback" % "logstash-logback-encoder" % "6.6",
       "io.lemonlabs" %% "scala-uri" % "3.2.0",
       "net.codingwell" %% "scala-guice" % "5.0.0",
       "org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0" % Test
